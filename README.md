@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Siri
 
-<!--
-**Sirisha-collab/Sirisha-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ASP.NET Core Developer | 🚀 Backend Enthusiast | ⚡ System Design Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Working on High Performance APIs
+- 🌱 Learning System Design & Distributed Systems
+- ⚙️ Interested in Concurrency, DSA, and Backend Engineering
+- 🎯 Goal: Become a Strong Backend Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: C#, JavaScript
+- 🌐 Backend: ASP.NET Core Web API
+- 🗄️ Database: SQL Server
+- ⚡ Concepts: Multithreading, REST APIs, LINQ, System Design
+
+---
+
+## 🚀 Featured Project
+
+### 🏦 High-Performance Stock Trading API
+- Real-time order matching engine
+- Thread-safe in-memory order book
+- WebSockets for live updates
+- BenchmarkDotNet performance testing
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yourusername
