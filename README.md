@@ -1,49 +1,40 @@
-# Hi 👋, I'm Siri
+# Gangarapu Shirisha
 
-💻 ASP.NET Core Developer | 🚀 Backend Enthusiast | ⚡ System Design Learner
-
----
+💻 Machine Learning Engineer | 🚀 AI Enthusiast | ⚡ System Design Learner
 
 ## 🧠 About Me
-- 🔭 Working on High Performance APIs
-- 🌱 Learning System Design & Distributed Systems
-- ⚙️ Interested in Concurrency, DSA, and Backend Engineering
-- 🎯 Goal: Become a Strong Backend Engineer
-
----
+Passionate about building scalable systems, intelligent applications, and data-centric solutions using AI, Machine Learning, Cloud, and Modern Software Engineering practices.
+- 💼 4+ years of experience in Machine Learning, Production Applications, and Cloud Technologies
+- 🤖 Interested in AI/ML, NLP, Generative AI, and Data Engineering
+- ☁️ Experienced with Azure Cloud, Kubernetes, CI/CD, and Microservices
+- 📊 Strong background in SQL optimization, analytics, debugging, and system reliability
+- 📚 Published research paper in Springer Singapore Journal
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: C#, JavaScript
-- 🌐 Backend: ASP.NET Core Web API
-- 🗄️ Database: SQL Server
-- ⚡ Concepts: Multithreading, REST APIs, LINQ, System Design
+## 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning (Supervised & Unsupervised)
+- NLP
+- Generative AI
+- LLMs
+- RAG
 
----
+## 💻 Programming & Frameworks
+- Python (Pandas, NumPy, Scikit-learn)
+- C#
+- ASP.NET Core
+- Postman
 
-## 🚀 Featured Project
-
-### 🏦 High-Performance Stock Trading API
-- Real-time order matching engine
-- Thread-safe in-memory order book
-- WebSockets for live updates
-- BenchmarkDotNet performance testing
-
----
+## ☁️ Cloud & DevOps
+- Microsoft Azure
+- GitHub Actions
+- CI/CD Pipelines
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-
----
-
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gangarapu-shirisha/)
+- GitHub: [https://github.com/yourusername](https://github.com/Sirisha-collab)
