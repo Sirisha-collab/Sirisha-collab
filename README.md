@@ -30,10 +30,6 @@ Passionate about building scalable systems, intelligent applications, and data-c
 - GitHub Actions
 - CI/CD Pipelines
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
 ## 🌐 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gangarapu-shirisha/)
