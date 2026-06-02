@@ -34,3 +34,5 @@ Passionate about building scalable systems, intelligent applications, and data-c
 
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gangarapu-shirisha/)
 - GitHub: [https://github.com/yourusername](https://github.com/Sirisha-collab)
+
+⭐ Always exploring opportunities to build intelligent systems, scalable platforms, and impactful AI-driven solutions.
