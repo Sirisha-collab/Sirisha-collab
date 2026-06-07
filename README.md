@@ -5,7 +5,7 @@
 ## 🧠 About Me
 Passionate about building scalable systems, intelligent applications, and data-centric solutions using AI, Machine Learning, Cloud, and Modern Software Engineering practices.
 - 💼 4+ years of experience in Machine Learning, Production Applications, and Cloud Technologies
-- 🤖 Interested in AI/ML, NLP, Generative AI, and Data Engineering
+- 🤖 Interested in AI/ML, NLP, LLM, and Data Engineering
 - ☁️ Experienced with Azure Cloud, Kubernetes, CI/CD, and Microservices
 - 📊 Strong background in SQL optimization, analytics, debugging, and system reliability
 - 📚 Published research paper in Springer Singapore Journal
