@@ -35,4 +35,10 @@ Passionate about building scalable systems, intelligent applications, and data-c
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gangarapu-shirisha/)
 - GitHub: [https://github.com/yourusername](https://github.com/Sirisha-collab)
 
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sirisha-collab&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirisha-collab&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sirisha-collab)
+
 ⭐ Always exploring opportunities to build intelligent systems, scalable platforms, and impactful AI-driven solutions.
