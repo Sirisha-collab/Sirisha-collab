@@ -3,10 +3,10 @@
 💻 Machine Learning Engineer | 🚀 AI Enthusiast | ⚡ System Design Learner
 
 ## 🧠 About Me
-Passionate about building scalable systems, intelligent applications, and data-centric solutions using AI, Machine Learning, Cloud, and Modern Software Engineering practices.
+Think of someone who enjoys creating smart and reliable technology solutions. They build systems that can grow with more users, use AI to make applications more intelligent, and work with data to solve real-world problems using modern software practices.
+
 - 💼 4+ years of experience in Machine Learning, Production Applications, and Cloud Technologies
 - 🤖 Interested in AI/ML, NLP, LLM, and Data Engineering
-- ☁️ Experienced with Azure Cloud, Docker, Kubernetes, CI/CD, and Microservices
 - 📊 Strong background in SQL optimization, analytics, debugging, and system reliability
 - 📚 Published research paper in Springer Singapore Journal
 
