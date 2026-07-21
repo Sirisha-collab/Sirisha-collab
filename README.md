@@ -1,6 +1,6 @@
 # Gangarapu Shirisha
 
-💻 Machine Learning Engineer | 🚀 AI Enthusiast | ⚡ System Design Learner
+💻 Machine Learning Engineer | 🚀 AI/ML Enthusiast | ⚡ System Design Learner
 
 ## 🧠 About Me
 Think of someone who enjoys creating smart and reliable technology solutions. They build systems that can grow with more users, use AI to make applications more intelligent, and work with data to solve real-world problems using modern software practices.
@@ -13,7 +13,7 @@ Think of someone who enjoys creating smart and reliable technology solutions. Th
 ## 🛠️ Tech Stack
 
 ## 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning (Supervised & Unsupervised)
+- Machine Learning Concepts
 - NLP
 - Generative AI
 - LLMs
@@ -27,7 +27,6 @@ Think of someone who enjoys creating smart and reliable technology solutions. Th
 
 ## ☁️ Cloud & DevOps
 - Microsoft Azure
-- GitHub Actions
 - CI/CD Pipelines
 
 ## 🌐 Connect With Me
