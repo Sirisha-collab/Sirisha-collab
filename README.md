@@ -15,12 +15,11 @@ Think of someone who enjoys creating smart and reliable technology solutions. Th
 ## 🤖 Artificial Intelligence & Machine Learning
 - Machine Learning Concepts
 - NLP
-- Generative AI
 - LLMs
 - RAG
 
 ## 💻 Programming & Frameworks
-- Python (Pandas, NumPy, Scikit-learn)
+- Python 
 - C#
 - ASP.NET Core
 - Postman
