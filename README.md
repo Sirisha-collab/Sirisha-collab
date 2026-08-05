@@ -32,10 +32,7 @@ Think of someone who enjoys creating smart and reliable technology solutions. Th
 
 - LinkedIn: https://www.linkedin.com/in/gangarapu-shirisha/
 - GitHub: https://github.com/Sirisha-collab
-- https://streak-stats.demolab.com/?user=Sirisha-collab
 
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sirisha-collab)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sirisha-collab)
 
 ⭐ Always exploring opportunities to build intelligent systems, scalable platforms, and impactful AI-driven solutions.
