@@ -34,6 +34,7 @@ Think of someone who enjoys creating smart and reliable technology solutions. Th
 - GitHub: https://github.com/Sirisha-collab
 
 ## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sirisha-collab)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sirisha-collab&v=2)
 
 ⭐ Always exploring opportunities to build intelligent systems, scalable platforms, and impactful AI-driven solutions.
